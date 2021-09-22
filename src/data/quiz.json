@@ -1,0 +1,73 @@
+{
+    "data": [
+      
+        {
+            "question": "What are the features of React?",
+            "choices":["Uses virtual DOM","Uses real DOM","Has no server side rendering","No data binding"],
+            "answer": "Uses virtual DOM"
+        },
+        {
+            "question": "Limitations of React?",
+            "choices":["Full blown framework","React is just a library","Library is very small","Coding is easy"],
+            "answer": "React is just a library"
+
+        },
+
+        {
+            "question": "Difference between React and Angular",
+            "choices":["React author is Facebook, while Angular author is Google","React author is Facebook, while Angular author is Google"],
+            "answer": "React author is Facebook, while Angular author is Google"
+
+        },
+
+        {
+            "question": "What is the arrow function in React?",
+            "choices":["Allow to bind the context","Arrow functions are mostly useful while working with the lower order functions."],
+            "answer": "Allow to bind the context"
+
+        },
+
+        {
+            "question": "What are the different phases of React component’s lifecycle?",
+            "choices":["Mounting Phase","Initial Rendering Phase", "Complete Phase"],
+            "answer": "Initial Rendering Phase"
+
+        },
+
+        {
+            "question": "DOM meaning",
+            "choices":["Days On Market","Distributed Object Management", "Date of Maturity","Document Object Oriented"],
+            "answer": "Document Object Oriented"
+
+        },
+
+        {
+            "question": "List some of the cases when you should use Refs.",
+            "choices":["Delete third-party DOM libraries","To trigger imperative animations"],
+            "answer": "Initial Rendering Phase"
+
+        },
+
+        {
+            "question": "What do you know about controlled components?",
+            "choices":[" They take in the current values through props and then notify the changes via callbacks","Data is controlled by the parent component","They maintain their own state"],
+            "answer": "Data is controlled by the parent component"
+
+        },
+
+        {
+            "question": "What do you know about uncontrolled components?",
+            "choices":["Refs are used to get their current values","They do not maintain their own state"],
+            "answer": "Refs are used to get their current values"
+
+        },
+
+        {
+            "question": "What can you do with HOC?",
+            "choices":["Delete third-party DOM libraries","Code reuse, logic and bootstrap abstraction"],
+            "answer": "Code reuse, logic and bootstrap abstraction"
+
+        }
+
+    ]
+}
